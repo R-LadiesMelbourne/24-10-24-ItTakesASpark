@@ -1,6 +1,17 @@
-library(tidyverse)
-library(ggmap)
-library(here)
+if(!require(tidyverse)){
+    install.packages("tidyverse")
+    library(tidyverse)
+}
+
+if(!require(ggmap)){
+    install.packages("ggmap")
+    library(ggmap)
+}
+
+if(!require(here)){
+    install.packages("here")
+    library(here)
+}
 
 outbreak_data <- readr::read_csv(here("outbreak_data.csv"))
 
