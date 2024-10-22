@@ -1,4 +1,4 @@
-# 31-10-24-ItTakesASpark
+# 24-10-24-ItTakesASpark
 
 R Ladies Melbourne is excited to present at this year's [It Takes a Spark Conference](https://spark-educonferences.com.au/), organised for students and teachers to participate, learn and be inspired by current advances in Science, Technology, Engineering and Maths. [Dionne](https://github.com/dionnecargy) and [Kathleen](https://github.com/kzeglinski) are presenting this year's workshop.
 
