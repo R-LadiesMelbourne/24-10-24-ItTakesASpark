@@ -13,7 +13,7 @@ if(!require(here)){
     library(here)
 }
 
-outbreak_data <- readr::read_csv(here("outbreak_data.csv"))
+outbreak_data <- readr::read_csv(here("data/outbreak_data.csv"))
 
 
 symptoms <- outbreak_data %>% 
